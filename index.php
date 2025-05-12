@@ -2,5 +2,5 @@
 function tambah($a, $b) {
     return $a + $b;
 }
-echo "Hasil: " . tambah(3, 4);
+echo "Hasil dari fitur A: " . tambah(3, 4);
 ?>
