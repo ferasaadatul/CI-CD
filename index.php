@@ -2,5 +2,5 @@
 function tambah($a, $b) {
     return $a + $b;
 }
-echo "Hasil dari main branch: " . tambah(3, 4);
+echo "Gabungan fitur A dan main: " . tambah(3, 4);
 ?>
